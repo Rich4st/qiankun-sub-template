@@ -33,7 +33,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/qiankun/index.js", "src/qiankun/index.js"  ],
   "exclude": [
     "node_modules"
   ]
